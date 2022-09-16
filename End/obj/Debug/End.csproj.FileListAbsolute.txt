@@ -1,0 +1,17 @@
+D:\VS\CSProjects\End\End\bin\Debug\End.exe.config
+D:\VS\CSProjects\End\End\bin\Debug\End.exe
+D:\VS\CSProjects\End\End\bin\Debug\End.pdb
+D:\VS\CSProjects\End\End\bin\Debug\MySql.Data.dll
+D:\VS\CSProjects\End\End\obj\Debug\End.csprojResolveAssemblyReference.cache
+D:\VS\CSProjects\End\End\obj\Debug\End.Login.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.Properties.Resources.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.csproj.GenerateResource.Cache
+D:\VS\CSProjects\End\End\obj\Debug\End.exe
+D:\VS\CSProjects\End\End\obj\Debug\End.pdb
+D:\VS\CSProjects\End\End\obj\Debug\End.StudentMenu.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.TeacherMenu.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.StuList.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.AddStudent.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.TeaList.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.AddTeacher.resources
+D:\VS\CSProjects\End\End\obj\Debug\End.SelStu.resources
